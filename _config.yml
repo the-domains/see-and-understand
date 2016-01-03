@@ -1,0 +1,28 @@
+name: 'See & Understand'
+favicon: null
+layout_spectrum: 0.11240291129797697
+typography_spectrum: 0.9643866741098464
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.25646369089372456
+  lightness: 0.46139228506945074
+  saturation: 0.8683438394218683
+  rhythmicContrast: 0.1576087847352028
+purpose: []
