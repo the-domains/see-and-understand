@@ -2,6 +2,7 @@ name: 'See & Understand'
 favicon: null
 layout_spectrum: 0.11240291129797697
 typography_spectrum: 0.9643866741098464
+title: 'See & Understand'
 cta:
   domain: null
   bucket: null
