@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[See & Understand]]></title>
         <description><![CDATA[See & Understand]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/see-and-understand/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 16:52:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 10:23:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/see-and-understand/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Simple & Clear MLB Pay]]></title>
+            <description><![CDATA[<article><h1>Simple & Clear MLB Pay</h1><p>My shot at @tableau #MakeoverMonday @acotgreave @VizWizBI http://sirvizalot.blogspot.com/2016/01/makeovermonday-who-had-most-valuable.html ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e07abdeec8ba53da3a7e5697593c87757eb6a75.png"></article>]]></description>
+            <link>https://twitter.com/sirvizalot/status/683840984979996673</link>
+            <guid isPermaLink="false">efb1e366-ba64-4b29-9908-aac8f1130542</guid>
+            <pubDate>Mon, 04 Jan 2016 10:23:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rain, Destruction and a Modern Mapping Stack - The Information Lab]]></title>
-            <description><![CDATA[<article><h1>Rain, Destruction and a Modern Mapping Stack - The Information Lab</h1><p>A modern mapping stack needs to be quick and easy to create, integrate and update. Just as Tableau and Alteryx can plow through any and all data from parsing to visualising, with the addition of Mapbox taking on GIS is just as simple. Here's how I recently put it to use.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b8b391911e18aa4e2e4f3518ce6e0143b5f0fc5.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Rain, Destruction and a Modern Mapping Stack - The Information Lab</h1><p>A modern mapping stack needs to be quick and easy to create, integrate and update. Just as Tableau and Alteryx can plow through any and all data from parsing to visualising, with the addition of Mapbox taking on GIS is just as simple. Here's how I recently put it to use.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f1313cb8051053bd5adf717681f40810d97ade7.png"></article>]]></description>
             <link>http://www.theinformationlab.co.uk/2015/12/31/rain-destruction-modern-mapping-stack/</link>
             <guid isPermaLink="false">b5add8fa-8fcb-4a4d-9582-6a61459ebea7</guid>
             <pubDate>Sun, 03 Jan 2016 16:52:10 GMT</pubDate>
