@@ -17,8 +17,8 @@ keywords:
   - https
   - tweet
 description: 'My shot at @tableau #MakeoverMonday @acotgreave @VizWizBI http://sirvizalot.blogspot.com/2016/01/makeovermonday-who-had-most-valuable.html ...'
-datePublished: '2016-01-06T10:24:25.970Z'
-dateModified: '2016-01-06T10:24:05.386Z'
+datePublished: '2016-01-06T10:27:45.134Z'
+dateModified: '2016-01-06T10:27:41.298Z'
 author:
   - name: sirvizalot
     url: 'http://twitter.com/sirvizalot'
@@ -57,7 +57,7 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![My shot at &commat;tableau &num;MakeoverMonday &commat;acotgreave &commat;VizWizBI http&colon;&sol;&sol;sirvizalot&period;blogspot&period;com&sol;2016&sol;01&sol;makeovermonday-who-had-most-valuable&period;html &period;&period;&period;](https://pbs.twimg.com/media/CX19wI4WcAEUNsa.png:large)
+![My shot at @tableau #MakeoverMonday @acotgreave @VizWizBI http://sirvizalot.blogspot.com/2016/01/makeovermonday-who-had-most-valuable.html ...](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3809a5dc369640c0a1b785e8884b05ffdc1e890d.png)
 
 There's something about a DNA Chart, especially when the data passes from positive, through zero to negative. It's delightfully clear not just who the top and bottom players are but also grabs your attention at how they compare with the overall average, something that a standard bar chart with an average reference line would struggle to do.
 
