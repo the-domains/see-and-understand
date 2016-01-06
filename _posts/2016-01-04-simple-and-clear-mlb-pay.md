@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://twitter.com/sirvizalot/status/683840984979996673'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - tableau
   - sirvizalot
@@ -17,8 +17,8 @@ keywords:
   - https
   - tweet
 description: 'My shot at @tableau #MakeoverMonday @acotgreave @VizWizBI http://sirvizalot.blogspot.com/2016/01/makeovermonday-who-had-most-valuable.html ...'
-datePublished: '2016-01-06T10:24:02.973Z'
-dateModified: '2016-01-06T10:23:58.992Z'
+datePublished: '2016-01-06T10:24:25.970Z'
+dateModified: '2016-01-06T10:24:05.386Z'
 author:
   - name: sirvizalot
     url: 'http://twitter.com/sirvizalot'
