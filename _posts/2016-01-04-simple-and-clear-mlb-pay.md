@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://twitter.com/sirvizalot/status/683840984979996673'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - https
   - tweet
 description: 'My shot at @tableau #MakeoverMonday @acotgreave @VizWizBI http://sirvizalot.blogspot.com/2016/01/makeovermonday-who-had-most-valuable.html ...'
-datePublished: '2016-01-06T10:27:45.134Z'
-dateModified: '2016-01-06T10:27:41.298Z'
+datePublished: '2016-01-06T10:29:10.634Z'
+dateModified: '2016-01-06T10:29:06.363Z'
 author:
   - name: sirvizalot
     url: 'http://twitter.com/sirvizalot'
@@ -53,6 +52,7 @@ publisher:
   domain: twitter.com
   url: 'http://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
+url: simple-and-clear-mlb-pay/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
